@@ -20,7 +20,7 @@
 <div> 
   <a href = "mailto:alannkp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_black"></a>
   <a href="www.linkedin.com/in/alann-perini-926204116" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <--!
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
-    --!>
+
+  ![Snake animation](https://github.com/AlannkPerini/AlannKPerini/blob/output/github-contribution-grid-snake.svg) 
+
 </div>
