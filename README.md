@@ -1,5 +1,4 @@
 ### Professor Alann Perini 👋
-Docente Cursos de Tecnologia
 
 <div align="center">
   <a href="https://github.com/AlannKPerini">
